@@ -1,0 +1,12 @@
+[package]
+name = "qrery"
+version = "0.0.1"
+authors = ["Dmitry Birin <dmitry.birin@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "3"
+actix-files = "0.3"
+env_logger = "0.7"
+qrcode-generator = "4.0.3"
+
